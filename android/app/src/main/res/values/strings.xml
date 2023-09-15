@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resource>
+    <string name="app_name">ContactApp</string>
+    
+    <string name="facebook_app_id">1971284289905088</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">dcaf9dc10f2d212824905cf3d14cc15b</string>
+
+
+</resource>
