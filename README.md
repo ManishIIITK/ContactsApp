@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # contacts_app
 
-A new Flutter project.
+A new Flutter project. This project is basically an assignment for Ivykids. This app has authentications using email, password, google and facebook account also. User can register. This app can keep your contact list in sorted way and user can also search for any of his save contact and can serach his saved contacts.
 
 ## Getting Started
 
